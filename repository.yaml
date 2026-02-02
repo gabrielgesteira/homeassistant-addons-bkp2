@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Home Assistant add-on repository cloned to fix a bug in Whisper
+url: 'https://github.com/gabrielgesteira/homeassistant-addons-bkp2'
+maintainer: Gabriel Gesteira <gabrielgesteira@gmail.com>
